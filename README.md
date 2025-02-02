@@ -17,6 +17,8 @@ In this assignment, the following tasks are completed:
 3. **Generative Application to CelebA Dataset**  
    The VAE model is applied to the **CelebA** dataset, which contains images of celebrity faces. This task demonstrates the ability of the model to generalize to more complex and real-world datasets. The generated images are visualized to assess the model's performance and latent space structure for face images.
 
+*Tasks were completed with limited availbility to high-compute platforms.  For real-world use cases, models would require much more training and hyperparameter fine-tuning.*
+
 ## Requirements
 
 - Python 3.x
